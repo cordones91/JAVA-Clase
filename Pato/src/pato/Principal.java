@@ -13,6 +13,7 @@ public class Principal {
 		Pato pepito=new Pato(5);
 		
 		pepito.AndarHaciaAdelante(22);
+		pepito.AndarHaciaAtras(50);
 		
 		System.out.println("La posicion del pato es: "+pepito.DimePosicion());
 		
