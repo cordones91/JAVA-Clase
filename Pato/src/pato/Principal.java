@@ -10,6 +10,8 @@ public class Principal {
 		// TODO Apéndice de método generado automáticamente
 	
 		//int pasos;
+		boolean sexo1;
+		boolean sexo2;
 		Pato pepito=new Pato(5);
 		
 		pepito.AndarHaciaAdelante(22);
