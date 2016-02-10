@@ -1,2 +1,6 @@
 Fichero para pruebas de Jhon
+<<<<<<< HEAD
 //fichero modificado por jose
+=======
+//fichero modificado por amanda
+>>>>>>> d445afd948a7b63599366dd4fde4a9d90f051a81
